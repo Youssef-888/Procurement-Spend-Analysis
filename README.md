@@ -34,3 +34,7 @@ The goal of this project is to turn raw procurement data into useful business in
 - Outlier detection
 - Relationship analysis between quantity, unit price, and total cost
 - Business interpretation of results
+
+## Dataset Overview
+
+<img width="1384" height="329" alt="image" src="https://github.com/user-attachments/assets/3fc7974d-2228-42b5-94f4-5e15b70d7913" />
