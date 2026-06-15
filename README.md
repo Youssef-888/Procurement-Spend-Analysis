@@ -21,7 +21,7 @@ The goal of this project is to turn raw procurement data into useful business in
 - pandas
 - NumPy
 - Matplotlib
-- SciPy
+- Seaborn
 - Excel
 
 ## Analysis Performed
